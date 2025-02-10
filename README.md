@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **m'sahel.mohamedhabib@esprit.tn**
+- 📫 How to reach me **msahel.medhabib@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
