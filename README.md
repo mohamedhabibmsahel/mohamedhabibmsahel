@@ -1,43 +1,83 @@
-<h1 align="center">Hi 👋, I'm Mohamed Habib M'SAHEL</h1>
-<h3 align="center">A skilled mobile developer from Tunisia</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Mohamed%20Habib%20M'SAHEL&fontSize=60&fontAlignY=35&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+</div>
 
-- 🔭 I’m currently working on [Le Bosphore](https://github.com/mohamedhabibmsahel/Bosphore_Mobile) and other mobile projects.
-- 🌟 I have advanced proficiency in **Flutter** and building cross-platform mobile applications.
-- 📫 How to reach me: **msahel.medhabib@gmail.com**
+<h2 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Crafting+Legendary+Digital+Experiences;Full-Stack+Engineer+%7C+Mobile+Developer;Specializing+in+React,+Node.js+%26+Flutter;Building+HabibOS+Portfolio" alt="Typing SVG" /></a>
+</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mohamed-habib-m-sahel-9bb5a0217/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/mohamedhabib.msahel" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
+<p align="center">
+  <em>A skilled software engineer from Tunisia, turning coffee into code and ideas into high-performance applications.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Programming languages -->
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+---
+
+### 🚀 What I'm Building
+- 💻 Currently working on an **Easy Dispatching System** (Full-stack logistics & warehouse management platform).
+- 📱 Developing a **Mobile Inventory Scanner** using Flutter and Zebra SDK.
+- 🌐 Building my ultimate **HabibOS Portfolio** — a cinematic hacker terminal experience.
+- 🔒 Maintaining a **JWT + OAuth2 Auth Microservice** with refresh token rotation.
+
+---
+
+### 💻 Tech Arsenal
+
+<div align="center">
   
-  <!-- Frameworks & Tools -->
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  
-  <!-- Backend & Databases -->
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+**Frontend & Mobile**<br>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+
+<br>**Backend & Databases**<br>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+<br>**DevOps & Architecture**<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge&logo=architecture&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **HabibOS Portfolio** | A cinematic hacker terminal experience with Matrix rain, interactive shell, and Web Audio. | `Next.js` `TypeScript` `React` `Framer Motion` |
+| **Easy Dispatching System** | Full-stack logistics platform with real-time tracking, RBAC, and optimized workflows. | `Node.js` `React` `PostgreSQL` `Flutter` |
+| **Mobile Inventory Scanner** | Industrial barcode scanner app for Zebra devices with multi-zone offline sync. | `Flutter` `Dart` `Zebra SDK` `SQLite` |
+| **API Gateway & Rate Limiter** | Custom API gateway with request routing, token bucket rate limiting, and circuit breakers. | `Node.js` `Redis` `Nginx` `Docker` `Prometheus` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhabibmsahel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhabibmsahel&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhabibmsahel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://linkedin.com/in/mohamedhabibmsahel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/mohamedhabibmsahel"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer" width="100%"/>
 </p>
-
-<h3 align="left">Current Focus:</h3>
-- Developing high-quality **Flutter mobile apps** with clean architecture.
-- Exploring advanced backend integrations with **Node.js**, **Firebase**, and **Spring Boot**.
-- Improving UI/UX design skills using **Figma** and **Adobe tools**.
-
